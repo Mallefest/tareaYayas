@@ -51,6 +51,11 @@ namespace Formulario_EdCastillo
             ECBaseDato.EjecutaSQLComando(Query);
             MessageBox.Show("Fue Eliminado con exito");
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

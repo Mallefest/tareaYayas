@@ -112,6 +112,7 @@
             this.EC_txtSalida.Name = "EC_txtSalida";
             this.EC_txtSalida.Size = new System.Drawing.Size(200, 22);
             this.EC_txtSalida.TabIndex = 25;
+            this.EC_txtSalida.ValueChanged += new System.EventHandler(this.EC_txtSalida_ValueChanged);
             // 
             // EC_txtingreso
             // 
