@@ -1,0 +1,78 @@
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe.config
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csprojResolveAssemblyReference.cache
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECAFormulario.resources
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.Properties.Resources.resources
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csproj.GenerateResource.Cache
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.pdb
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.exe
+c:\users\bellavista_lab103\documents\visual studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.pdb
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe.config
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.exe
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.pdb
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.pdb
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csprojResolveAssemblyReference.cache
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECAFormulario.resources
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECFormMenu.resources
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.Properties.Resources.resources
+C:\Users\bellavista_lab103\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csproj.GenerateResource.Cache
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe.config
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.exe
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.pdb
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.pdb
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csprojResolveAssemblyReference.cache
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECAFormulario.resources
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECFormMenu.resources
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FichaVete.resources
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.Properties.Resources.resources
+C:\Users\eduardo castillo t\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.exe
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECAFormulario.resources
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECFormMenu.resources
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FichaVete.resources
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csproj.GenerateResource.Cache
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe.config
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.exe
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.pdb
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.pdb
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csprojResolveAssemblyReference.cache
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECAFormulario.resources
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECFormMenu.resources
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FichaVete.resources
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.Properties.Resources.resources
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FormDelete.resources
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FormReview.resources
+C:\Users\Eduardo\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_Update.resources
+C:\Users\bellavista_lab103\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECFormMenu.resources
+C:\Users\bellavista_lab103\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FichaVete.resources
+C:\Users\bellavista_lab103\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FormDelete.resources
+C:\Users\bellavista_lab103\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FormReview.resources
+C:\Users\bellavista_lab103\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_Update.resources
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FormDelete.resources
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FormReview.resources
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_Update.resources
+C:\Users\bellavista_lab211\Documents\Visual Studio 2012\Projects\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECFormAgregar.resources
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe.config
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.exe
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.pdb
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.exe
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\bin\Debug\Formulario_EdCastillo.pdb
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECAFormulario.resources
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.ECFormMenu.resources
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FormDelete.resources
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_FormReview.resources
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_Update.resources
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\Formulario_EdCastillo\Formulario_EdCastillo\obj\Debug\Formulario_EdCastillo.EC_Agregar.resources
