@@ -113,10 +113,17 @@ namespace Formulario_EdCastillo
         private void EC_bntOkUpdate_Click(object sender, EventArgs e)
         {
             EC_Class ECBaseDato = new EC_Class();
-            string Query = "update ECtbl_veterinaria set Tipo='" + comboxTipo_EC + "', NombreMascota ='" + EC_txtNombremascota.Text + "', Nombre='" +
-                                EC_txtNombreDueño + "', Apellido='" + EC_txtApellido + "', Rut='" + EC_txtRut + "', Ingreso='" +
-                                Convert.ToDateTime(EC_txtingreso.Text) + "', Salida='" + Convert.ToDateTime(EC_txtSalida) + "', Estadia=" + EC_txtEstadia.Text + ", Peso=" + EC_txtPeso.Text + ", Tamano=" + EC_txtTamaño.Text +
-                                " where Id='" + comboxID_EC.Text + "'";
+
+            DateTime ECIngreso = Convert.ToDateTime(EC_txtingreso.Text);
+            DateTime ECSalida = Convert.ToDateTime(EC_txtSalida.Text);
+
+            System.TimeSpan ECEstadia= ECSalida.Subtract(ECIngreso);
+
+
+            string Query = "update ECtbl_veterinaria set Tipo='" + comboxTipo_EC.Text + "', NombreMascota ='" + EC_txtNombremascota.Text + "', Nombre='" +
+                                EC_txtNombreDueño.Text + "', Apellido='" + EC_txtApellido.Text + "', Rut='" + EC_txtRut.Text + "', Ingreso='" +
+                                ECIngreso + "', Salida='" + ECSalida + "', Estadia='" + ECEstadia.ToString() + "', Peso='" + EC_txtPeso.Text + "', Tamano='" + EC_txtTamaño.Text +
+                                "' where Id='" + comboxID_EC.Text + "'";
             ECBaseDato.EjecutaSQLComando(Query);
 
             MessageBox.Show("Datos Actualziados!");

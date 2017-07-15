@@ -45,8 +45,8 @@ namespace Formulario_EdCastillo
                 {
                     throw error;
                 }*/
-                
-                MessageBox.Show(error.Message);
+
+                MessageBox.Show(error.Message + sComandoSql);
 
 
             }
@@ -74,13 +74,8 @@ namespace Formulario_EdCastillo
             }
             catch (Exception error)
             {
-                if (error == null)
-                {
-
-                    throw error;
-
-                    //MessageBox.Show(error.Message.ToString()); 
-                }
+                MessageBox.Show(error.Message+
+                    sComandoSql);
 
             }
             finally

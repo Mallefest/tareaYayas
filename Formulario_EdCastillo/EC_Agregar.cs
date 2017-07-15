@@ -25,11 +25,11 @@ namespace Formulario_EdCastillo
         private void EC_bntAgregar_Click(object sender, EventArgs e)
         {
             EC_Class ECBaseDatos = new EC_Class();
-            string Query = " insert into ECtbl_veterinaria (Tipo, NombreMascota, Nombre, Apellido, Rut, Ingreso, Peso)" +
+            string Query = " insert into ECtbl_veterinaria (Tipo, NombreMascota, Nombre, Apellido, Rut, Ingreso, Peso,Tamano)" +
                              " values" +
                              "('" + CmboxTipo_EC.Text + "', '" + txtECnombremascota.Text + "', '" + txtECnombredueño.Text + "', '" +
                              txtECapellidos.Text + "', '" + txtECrut.Text + "', '" + Convert.ToDateTime(txtECfechaIngreso.Text).ToString("dd-MM-yyyy") + "','" +
-                             txtECpeso.Text +txtECTamaño.Text + "')";
+                             txtECpeso.Text+"','" +txtECTamaño.Text + "')";
             ECBaseDatos.EjecutaSQLComando(Query);
             MessageBox.Show(" Datos Agregados!");
         }

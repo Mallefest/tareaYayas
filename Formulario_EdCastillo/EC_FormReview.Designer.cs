@@ -30,6 +30,7 @@
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.EC_btn = new System.Windows.Forms.Button();
+            this.ECcmbID = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -38,13 +39,13 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(12, 22);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(418, 207);
+            this.dataGridView1.Size = new System.Drawing.Size(435, 122);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // EC_btn
             // 
-            this.EC_btn.Location = new System.Drawing.Point(196, 236);
+            this.EC_btn.Location = new System.Drawing.Point(91, 213);
             this.EC_btn.Name = "EC_btn";
             this.EC_btn.Size = new System.Drawing.Size(75, 23);
             this.EC_btn.TabIndex = 1;
@@ -52,15 +53,26 @@
             this.EC_btn.UseVisualStyleBackColor = true;
             this.EC_btn.Click += new System.EventHandler(this.EC_btn_Click);
             // 
+            // ECcmbID
+            // 
+            this.ECcmbID.FormattingEnabled = true;
+            this.ECcmbID.Location = new System.Drawing.Point(313, 215);
+            this.ECcmbID.Name = "ECcmbID";
+            this.ECcmbID.Size = new System.Drawing.Size(121, 21);
+            this.ECcmbID.TabIndex = 2;
+            this.ECcmbID.SelectedIndexChanged += new System.EventHandler(this.ECcmbID_SelectedIndexChanged);
+            // 
             // EC_FormReview
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(459, 279);
+            this.Controls.Add(this.ECcmbID);
             this.Controls.Add(this.EC_btn);
             this.Controls.Add(this.dataGridView1);
             this.Name = "EC_FormReview";
             this.Text = "EC_FormReview";
+            this.Load += new System.EventHandler(this.EC_FormReview_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
@@ -70,5 +82,6 @@
 
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button EC_btn;
+        private System.Windows.Forms.ComboBox ECcmbID;
     }
 }
